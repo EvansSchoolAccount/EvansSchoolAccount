@@ -1,82 +1,65 @@
-<h1 align="center">Hi, I'm Evan Ubezio 👋</h1>
-<h3 align="center">Multilingual and creative application developer from Switzerland</h3>
+<h1 align="center">Hallo, ich bin Evan Ubezio 👋</h1>
+<h3 align="center">Mehrsprachiger und kreativer Applikationsentwickler aus der Schweiz</h3>
 
 <p align="center">
-  🌍 Born in Basel | 💻 IMS Student | 🔧 Junior Fullstack Dev<br>
-  🎓 Graduating in 2026 | 🔍 Seeking internship for summer 2026<br>
+  🌍 Geboren in Basel | 💻 IMS-Student | 🔧 Junior Fullstack Developer<br>
+  🎓 Abschluss 2026 | 🔍 Suche Praktikum ab Sommer 2026<br>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Über mich
 
-I'm currently in my third year at the Informatikmittelschule (IMS) in Basel, working toward my EFZ in Application Development. I'm passionate about software, problem-solving, and creative solutions – especially when they involve tech and design. I thrive when working in teams, but I'm also highly self-motivated and proactive.
+Ich bin aktuell im dritten Jahr an der Informatikmittelschule (IMS) in Basel und arbeite auf mein EFZ als Applikationsentwickler hin. Technik, kreative Problemlösungen und neue Herausforderungen begeistern mich – besonders im Bereich Softwareentwicklung.  
 
-I speak **German 🇩🇪**, **French 🇫🇷**, **English 🇬🇧**, and some **Italian 🇮🇹**, and I love collaborating with people from different backgrounds.
+Ich arbeite gerne im Team, bringe mich motiviert ein und übernehme gerne Verantwortung. Meine bilinguale Erziehung erlaubt mir es, **Deutsch 🇩🇪** und **Französisch 🇫🇷** fliessend zu sprechen, und auch mein **Englisch 🇬🇧** ist auf einem hohen Niveau.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologiestack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, Python, Java, basic C++  
-- **Databases:** MySQL, NoSQL  
+- **Backend:** PHP, Python, Java, grundlegendes C++  
+- **Datenbanken:** MySQL, NoSQL  
 - **Tools:** Office365, Git  
-- **Other:** Basic DevOps, UI/UX sense, CMS skills
 
 ---
 
-### 🌱 Current Goals
+### 🎯 Aktuelle Ziele
 
-- Finish my studies and secure a hands-on internship starting **summer 2026**
-- Sharpen my frontend and backend skills
-- Explore more open-source contributions and collaborative coding projects
-
----
-
-### 💬 Languages
-
-- **German:** Native  
-- **French:** Native  
-- **English:** Fluent  
-- **Italian:** Basic
+- Abschluss meiner Ausbildung und Suche eines spannenden Praktikums ab **Sommer 2026**  
+- Vertiefung meiner Kenntnisse in Frontend- und Backend-Entwicklung  
+- Erste Beiträge zu Open-Source-Projekten leisten und praktische Erfahrung sammeln
 
 ---
 
-### 🏐 Interests
+### 🌍 Sprachen
+
+- **Deutsch:** Muttersprache  
+- **Französisch:** Muttersprache  
+- **Englisch:** Fliessend  
+- **Italienisch:** Grundkenntnisse
+
+---
+
+### 🏐 Interessen
 
 - Volleyball 🏐  
-- Programming 🧠  
-- Snowboarding ❄️  
-- Hiking and nature 🌿  
-- Listening to music 🎧  
-- Traveling 🌍
+- Programmieren 💻  
+- Snowboarden ❄️  
+- Wandern & Natur 🌲  
+- Musik hören 🎧  
+- Reisen ✈️
 
 ---
 
-### 📫 Get in Touch
+### 📫 Kontakt
 
 - 📧 [evan.ubezio@stud.edubs.ch](mailto:evan.ubezio@stud.edubs.ch)  
-- 🔗 [LinkedIn – Evan Ubezio](https://www.linkedin.com) *(insert your actual LinkedIn link)*
+- 🔗 [LinkedIn – Evan Ubezio](https://www.linkedin.com) *(bitte deinen echten Link einfügen)*
 
 ---
 
 <p align="center">
-  Thanks for stopping by! ⭐️
+  Schön, dass du vorbeischaust! ⭐️
 </p>
-
-
-<!--
-**EvansSchoolAccount/EvansSchoolAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
