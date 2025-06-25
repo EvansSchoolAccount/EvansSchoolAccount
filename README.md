@@ -38,7 +38,6 @@ Ich arbeite gerne im Team, bringe mich motiviert ein und übernehme gerne Verant
 - **Deutsch:** Muttersprache  
 - **Französisch:** Muttersprache  
 - **Englisch:** Fliessend  
-- **Italienisch:** Grundkenntnisse
 
 ---
 
