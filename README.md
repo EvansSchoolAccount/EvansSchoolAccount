@@ -19,7 +19,7 @@ Ich arbeite gerne im Team, bringe mich motiviert ein und übernehme gerne Verant
 ### 🛠️ Technologiestack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, Python, Java, grundlegendes C++  
+- **Backend:** PHP, [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#), Java, grundlegendes C++  
 - **Datenbanken:** MySQL, NoSQL  
 - **Tools:** Office365, Git  
 
