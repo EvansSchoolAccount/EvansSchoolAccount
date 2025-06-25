@@ -18,9 +18,9 @@ Ich arbeite gerne im Team, bringe mich motiviert ein und übernehme gerne Verant
 
 ### 🛠️ Technologiestack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#), Java, grundlegendes C++  
-- **Datenbanken:** MySQL, NoSQL  
+- **Frontend:** [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)  
+- **Backend:** [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#), [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#), [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#), [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  
+- **Datenbanken:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#), NoSQL  
 - **Tools:** Office365, Git  
 
 ---
