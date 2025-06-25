@@ -2,7 +2,7 @@
 <h3 align="center">Mehrsprachiger und kreativer Applikationsentwickler aus der Schweiz</h3>
 
 <p align="center">
-  🌍 Geboren in Basel | 💻 IMS-Student | 🔧 Junior Fullstack Developer<br>
+  🌍 Geboren in Basel | 💻 IMS-Student <br>
   🎓 Abschluss 2026 | 🔍 Suche Praktikum ab Sommer 2026<br>
 </p>
 
