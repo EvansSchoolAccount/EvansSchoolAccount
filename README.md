@@ -56,7 +56,7 @@ Ich arbeite gerne im Team, bringe mich motiviert ein und übernehme gerne Verant
 ### 📫 Kontakt
 
 - 📧 [evan.ubezio@stud.edubs.ch](mailto:evan.ubezio@stud.edubs.ch)  
-- 🔗 [LinkedIn – Evan Ubezio](https://www.linkedin.com) *(bitte deinen echten Link einfügen)*
+- 🔗 [LinkedIn – Evan Ubezio](https://www.linkedin.com/in/evan-ubezio-1412a02a4/)
 
 ---
 
