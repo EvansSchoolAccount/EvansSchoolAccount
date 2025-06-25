@@ -3,7 +3,7 @@
 
 <p align="center">
   🌍 Geboren in Basel | 💻 IMS-Student <br>
-  🎓 Abschluss 2026 | 🔍 Suche Praktikum ab Sommer 2026<br>
+  🎓 Abschluss 2027 | 🔍 Suche Praktikum ab Sommer 2026<br>
 </p>
 
 ---
